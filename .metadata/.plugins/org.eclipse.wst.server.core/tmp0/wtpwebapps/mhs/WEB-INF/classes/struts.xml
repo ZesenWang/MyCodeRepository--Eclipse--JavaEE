@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+	"-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+	"http://struts.apache.org/dtds/struts-2.3.dtd">
+
+<struts>   
+    <package name="default" extends="struts-default">        
+        <action name="loginAction" class="com.action.UserAction" method="login">
+			<result name="success">/manage.jsp</result>
+			<result name="error">/login.jsp</result>
+		</action>
+		<action name="queryAction" class="com.action.UserAction" method="query">
+			<result name="success">/manage.jsp</result>
+			<result name="error">/error.jsp</result>
+		</action>
+		<action name="queryByIdAction" class="com.action.UserAction" method="queryById">
+			<result name="success">/query.jsp</result>
+			<result name="error">/error.jsp</result>
+		</action>
+		<action name="queryByNoAction" class="com.action.UserAction" method="queryByNo">
+			<result name="success">/query.jsp</result>
+			<result name="error">/error.jsp</result>
+		</action>
+		<action name="addAction" class="com.action.UserAction" method="add">
+			<result name="success">/manage.jsp</result>
+			<result name="error">/error.jsp</result>
+		</action>
+		<action name="updateAction" class="com.action.UserAction" method="update">
+			<result name="success">/manage.jsp</result>
+			<result name="error">/error.jsp</result>
+		</action>
+		<action name="feichuAction" class="com.action.UserAction" method="feichu">
+			<result name="success">/manage.jsp</result>
+			<result name="error">/error.jsp</result>
+		</action>
+    </package>  
+
+</struts>

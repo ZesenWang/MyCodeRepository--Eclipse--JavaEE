@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 2017-5-9 19:52:21 by Hibernate Tools 3.4.0.CR1 -->
+<hibernate-mapping>
+    <class name="com.po.Mhs" table="mhs">
+        <id name="no" type="java.lang.Integer">
+            <column name="NO" />
+            <generator class="native" />
+        </id>
+        <property name="doctorid" type="java.lang.Integer">
+            <column name="doctorid" />
+        </property>
+        <property name="patientid" type="java.lang.Integer">
+            <column name="PATIENTID" />
+        </property>
+        <property name="mh" type="java.lang.String">
+            <column name="MH" />
+        </property>
+         <property name="datetime" type="java.lang.String">
+            <column name="DATETIME" />
+        </property>
+        <property name="statment" type="java.lang.String">
+            <column name="STATMENT" />
+        </property>
+    </class>
+</hibernate-mapping>

@@ -1,0 +1,99 @@
+
+5月 23, 2017 10:41:39.22 NEW SESSION
+5月 23, 2017 10:41:39.22 [9088:12176:0523/104139.223:ERROR:native_message_process_host.cc(287)] Native Messaging host tried sending a message that is 1051149 bytes long.
+5月 23, 2017 10:43:03.75 [9088:12176:0523/104303.752:ERROR:ssl_client_socket_impl.cc(1135)] handshake failed; returned -1, SSL error code 1, net_error -103
+5月 23, 2017 10:44:06.99 [9088:10256:0523/104406.994:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+5月 23, 2017 10:48:55.93 [9088:10256:0523/104855.938:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+5月 23, 2017 10:49:20.16 [9088:8504:0523/104920.168:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+5月 23, 2017 10:50:27.49 [9088:8504:0523/105027.492:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+5月 23, 2017 10:51:58.92 [9088:8504:0523/105158.925:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+5月 23, 2017 10:55:43.13 [9088:10256:0523/105543.130:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+5月 23, 2017 10:55:43.36 [9088:8504:0523/105543.363:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+5月 23, 2017 10:59:50.07 [9088:12176:0523/105950.079:ERROR:ssl_client_socket_impl.cc(1135)] handshake failed; returned -1, SSL error code 1, net_error -101
+5月 23, 2017 11:00:55.04 [9088:12176:0523/110055.040:ERROR:ssl_client_socket_impl.cc(1135)] handshake failed; returned -1, SSL error code 1, net_error -103
+5月 23, 2017 11:00:55.04 [9088:8504:0523/110055.040:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+5月 23, 2017 11:11:01.19 NEW SESSION
+5月 23, 2017 11:11:01.19 [8928:5448:0523/111101.189:ERROR:native_message_process_host.cc(287)] Native Messaging host tried sending a message that is 1051149 bytes long.
+5月 23, 2017 11:12:10.04 [8928:5448:0523/111210.045:ERROR:socket_stream.cc(210)] Closing stream with result -100
+5月 23, 2017 11:12:16.44 [8928:5448:0523/111216.447:ERROR:ssl_client_socket_impl.cc(1135)] handshake failed; returned -1, SSL error code 1, net_error -100
+5月 23, 2017 11:12:16.46 [8928:5448:0523/111216.447:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -100
+5月 23, 2017 11:13:39.33 [8928:5448:0523/111339.331:ERROR:socket_stream.cc(210)] Closing stream with result -100
+5月 23, 2017 11:14:40.62 [8928:5448:0523/111440.622:ERROR:socket_stream.cc(210)] Closing stream with result -100
+5月 23, 2017 11:15:42.69 [8928:5448:0523/111542.695:ERROR:socket_stream.cc(210)] Closing stream with result -100
+5月 23, 2017 11:16:44.57 [8928:5448:0523/111644.570:ERROR:socket_stream.cc(210)] Closing stream with result -100
+5月 23, 2017 11:17:46.06 [8928:5448:0523/111746.067:ERROR:socket_stream.cc(210)] Closing stream with result -100
+5月 23, 2017 11:18:47.46 [8928:5448:0523/111847.467:ERROR:socket_stream.cc(210)] Closing stream with result -100
+5月 23, 2017 11:19:49.49 [8928:5448:0523/111949.492:ERROR:socket_stream.cc(210)] Closing stream with result -100
+5月 23, 2017 11:20:03.86 [8928:5448:0523/112003.864:ERROR:socket_stream.cc(210)] Closing stream with result -100
+5月 23, 2017 11:21:06.58 [8928:5448:0523/112106.583:ERROR:socket_stream.cc(210)] Closing stream with result -100
+5月 23, 2017 11:22:09.32 [8928:5448:0523/112209.319:ERROR:socket_stream.cc(210)] Closing stream with result -100
+5月 23, 2017 11:22:19.51 [8928:5448:0523/112219.519:ERROR:ssl_client_socket_impl.cc(1135)] handshake failed; returned -1, SSL error code 1, net_error -100
+5月 23, 2017 11:22:19.53 [8928:5448:0523/112219.519:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -100
+5月 23, 2017 11:22:53.85 [8928:9444:0523/112253.850:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+5月 23, 2017 11:23:53.09 [8928:5448:0523/112353.094:ERROR:socket_stream.cc(210)] Closing stream with result -100
+5月 23, 2017 11:24:16.04 [8928:9444:0523/112416.041:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+5月 23, 2017 11:24:23.10 [8928:5448:0523/112423.104:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -7
+5月 23, 2017 11:25:03.23 [8928:5448:0523/112503.233:ERROR:ssl_client_socket_impl.cc(1135)] handshake failed; returned -1, SSL error code 1, net_error -100
+5月 23, 2017 11:25:03.24 [8928:5448:0523/112503.234:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -100
+5月 23, 2017 11:25:25.06 [8928:5448:0523/112525.064:ERROR:ssl_client_socket_impl.cc(1135)] handshake failed; returned -1, SSL error code 1, net_error -100
+5月 23, 2017 11:25:37.37 [8928:5448:0523/112537.376:ERROR:ssl_client_socket_impl.cc(1135)] handshake failed; returned -1, SSL error code 1, net_error -100
+5月 23, 2017 11:26:07.96 [8928:5448:0523/112607.963:ERROR:ssl_client_socket_impl.cc(1135)] handshake failed; returned -1, SSL error code 1, net_error -100
+5月 23, 2017 11:26:07.97 [8928:5448:0523/112607.964:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -100
+5月 23, 2017 11:26:25.01 [8928:5448:0523/112625.016:ERROR:ssl_client_socket_impl.cc(1135)] handshake failed; returned -1, SSL error code 1, net_error -100
+5月 23, 2017 11:26:25.03 [8928:9444:0523/112625.017:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+5月 23, 2017 11:27:46.70 [8928:5448:0523/112746.700:ERROR:ssl_client_socket_impl.cc(1135)] handshake failed; returned -1, SSL error code 1, net_error -100
+5月 23, 2017 11:27:46.71 [8928:5448:0523/112746.701:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -100
+5月 23, 2017 11:29:52.60 [8928:9444:0523/112952.604:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+5月 23, 2017 11:30:52.39 [8928:5448:0523/113052.391:ERROR:ssl_client_socket_impl.cc(1135)] handshake failed; returned -1, SSL error code 1, net_error -100
+5月 23, 2017 11:30:52.39 [8928:5448:0523/113052.391:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -100
+5月 23, 2017 11:31:36.24 [8928:5448:0523/113136.245:ERROR:ssl_client_socket_impl.cc(1135)] handshake failed; returned -1, SSL error code 1, net_error -101
+5月 23, 2017 11:38:15.66 [8928:5448:0523/113815.661:ERROR:ssl_client_socket_impl.cc(1135)] handshake failed; returned -1, SSL error code 1, net_error -101
+5月 23, 2017 11:38:15.68 [8928:5448:0523/113815.661:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -101
+5月 23, 2017 11:41:12.30 [8928:5448:0523/114112.306:ERROR:ssl_client_socket_impl.cc(1135)] handshake failed; returned -1, SSL error code 1, net_error -100
+5月 23, 2017 11:41:31.58 [8928:5448:0523/114131.580:ERROR:ssl_client_socket_impl.cc(1135)] handshake failed; returned -1, SSL error code 1, net_error -100
+5月 23, 2017 11:42:27.95 [8928:5448:0523/114227.955:ERROR:ssl_client_socket_impl.cc(1135)] handshake failed; returned -1, SSL error code 1, net_error -100
+5月 23, 2017 11:42:42.26 [8928:5448:0523/114242.264:ERROR:ssl_client_socket_impl.cc(1135)] handshake failed; returned -1, SSL error code 1, net_error -100
+5月 23, 2017 11:44:25.65 [8928:5448:0523/114425.651:ERROR:ssl_client_socket_impl.cc(1135)] handshake failed; returned -1, SSL error code 1, net_error -100
+5月 23, 2017 11:44:35.95 [8928:5448:0523/114435.954:ERROR:ssl_client_socket_impl.cc(1135)] handshake failed; returned -1, SSL error code 1, net_error -100
+5月 23, 2017 11:44:49.55 [8928:5448:0523/114449.555:ERROR:ssl_client_socket_impl.cc(1135)] handshake failed; returned -1, SSL error code 1, net_error -100
+5月 23, 2017 11:46:16.02 [8928:5448:0523/114616.019:ERROR:ssl_client_socket_impl.cc(1135)] handshake failed; returned -1, SSL error code 1, net_error -101
+5月 23, 2017 11:48:45.67 [8928:5448:0523/114845.675:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -7
+5月 23, 2017 11:49:42.87 [8928:5448:0523/114942.868:ERROR:ssl_client_socket_impl.cc(1135)] handshake failed; returned -1, SSL error code 1, net_error -100
+5月 23, 2017 11:59:53.05 [8928:5448:0523/115953.050:ERROR:socket_stream.cc(210)] Closing stream with result -100
+5月 23, 2017 12:01:03.31 [8928:5448:0523/120103.309:ERROR:socket_stream.cc(210)] Closing stream with result -100
+5月 23, 2017 12:02:04.66 [8928:5448:0523/120204.664:ERROR:socket_stream.cc(210)] Closing stream with result -100
+5月 23, 2017 12:02:14.93 [8928:5448:0523/120214.931:ERROR:ssl_client_socket_impl.cc(1135)] handshake failed; returned -1, SSL error code 1, net_error -100
+5月 23, 2017 12:02:14.94 [8928:5448:0523/120214.931:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -100
+5月 23, 2017 12:02:52.07 [8928:5448:0523/120252.074:ERROR:ssl_client_socket_impl.cc(1135)] handshake failed; returned -1, SSL error code 1, net_error -100
+5月 23, 2017 12:02:52.09 [8928:5448:0523/120252.075:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -100
+5月 23, 2017 12:03:42.53 [8928:5448:0523/120342.537:ERROR:ssl_client_socket_impl.cc(1135)] handshake failed; returned -1, SSL error code 1, net_error -101
+5月 23, 2017 12:03:42.55 [8928:5448:0523/120342.537:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -101
+5月 23, 2017 12:05:50.77 [8928:5448:0523/120550.777:ERROR:ssl_client_socket_impl.cc(1135)] handshake failed; returned -1, SSL error code 1, net_error -100
+5月 23, 2017 12:05:50.79 [8928:5448:0523/120550.778:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -100
+5月 23, 2017 12:08:41.91 [8928:5448:0523/120841.909:ERROR:ssl_client_socket_impl.cc(1135)] handshake failed; returned -1, SSL error code 1, net_error -101
+5月 23, 2017 12:08:41.91 [8928:5448:0523/120841.910:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -101
+
+5月 23, 2017 14:29:05.91 NEW SESSION
+5月 23, 2017 14:29:05.91 [11872:10648:0523/142905.910:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+5月 23, 2017 14:29:07.57 [11872:10648:0523/142907.574:ERROR:native_message_process_host.cc(287)] Native Messaging host tried sending a message that is 1051149 bytes long.
+5月 23, 2017 14:29:27.54 [11872:10648:0523/142927.544:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+5月 23, 2017 14:29:40.76 [11872:9160:0523/142940.763:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Connection failed (-106).
+5月 23, 2017 14:29:40.77 [11872:9160:0523/142940.763:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Connection failed (-106).
+5月 23, 2017 14:30:26.52 [11872:10648:0523/143026.528:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+5月 23, 2017 14:31:11.40 [11872:9160:0523/143111.403:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+5月 23, 2017 14:31:32.94 [11872:9160:0523/143132.948:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+5月 23, 2017 14:32:29.13 [11872:9160:0523/143229.136:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+5月 23, 2017 14:32:29.34 [11872:10648:0523/143229.340:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+5月 23, 2017 14:34:23.22 [11872:9160:0523/143423.218:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+5月 25, 2017 14:00:29.19 NEW SESSION
+5月 25, 2017 14:00:29.19 [12920:9276:0525/140029.196:ERROR:ssl_client_socket_impl.cc(1135)] handshake failed; returned -1, SSL error code 1, net_error -101
+5月 25, 2017 14:00:38.31 [12920:3520:0525/140038.318:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+5月 25, 2017 14:00:38.56 [12920:9276:0525/140038.565:ERROR:ssl_client_socket_impl.cc(1135)] handshake failed; returned -1, SSL error code 1, net_error -101
+5月 25, 2017 14:00:38.61 [12920:9276:0525/140038.618:ERROR:ssl_client_socket_impl.cc(1135)] handshake failed; returned -1, SSL error code 1, net_error -101
+5月 25, 2017 14:00:58.03 [12920:9276:0525/140058.038:ERROR:ssl_client_socket_impl.cc(1135)] handshake failed; returned -1, SSL error code 1, net_error -101
+5月 25, 2017 14:01:07.13 [12920:9276:0525/140107.134:ERROR:ssl_client_socket_impl.cc(1135)] handshake failed; returned -1, SSL error code 1, net_error -100
+5月 25, 2017 14:01:07.13 [12920:12928:0525/140107.134:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+5月 25, 2017 14:01:19.99 [12920:9276:0525/140119.999:ERROR:ssl_client_socket_impl.cc(1135)] handshake failed; returned -1, SSL error code 1, net_error -101
+5月 25, 2017 14:01:27.78 [12920:9276:0525/140127.783:ERROR:ssl_client_socket_impl.cc(1135)] handshake failed; returned -1, SSL error code 1, net_error -101

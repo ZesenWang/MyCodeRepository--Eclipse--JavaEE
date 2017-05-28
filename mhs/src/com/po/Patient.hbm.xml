@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 2017-5-5 13:31:14 by Hibernate Tools 3.4.0.CR1 -->
+<hibernate-mapping>
+    <class name="com.po.Patient" table="patient">
+        <id name="patientid" type="java.lang.Integer">
+            <column name="ID" />
+            <generator class="native" />
+        </id>
+        <property name="patientname" type="java.lang.String">
+            <column name="NAME" />
+        </property>
+        <property name="phonenumber" type="java.lang.String">
+            <column name="PHONENUMBER" />
+        </property>
+         <property name="address" type="java.lang.String">
+            <column name="address" />
+        </property>
+        <property name="idcard" type="java.lang.String">
+            <column name="IDCARD" />
+        </property>
+        <property name="age" type="java.lang.String">
+            <column name="AGE" />
+        </property>
+        <property name="sex" type="java.lang.String">
+            <column name="SEX" />
+        </property>
+    </class>
+</hibernate-mapping>

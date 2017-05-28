@@ -131,7 +131,7 @@
                prefix="localhost_access_log." suffix=".txt" pattern="common" resolveHosts="false"/>
         -->
 
-      <Context docBase="ECommerceWebsite" path="/ECommerceWebsite" reloadable="true" source="org.eclipse.jst.jee.server:ECommerceWebsite"/><Context docBase="DentalHospitalServer" path="/DentalHospitalServer" reloadable="true" source="org.eclipse.jst.jee.server:DentalHospitalServer"/><Context docBase="ChatRoom" path="/ChatRoom" reloadable="true" source="org.eclipse.jst.jee.server:ChatRoom"/><Context docBase="ch02" path="/ch02" reloadable="true" source="org.eclipse.jst.jee.server:ch02"/><Context docBase="struts_hibernate" path="/struts_hibernate" reloadable="true" source="org.eclipse.jst.jee.server:struts_hibernate"/><Context docBase="MyFirstMavenProject" path="/MyFirstMavenProject" reloadable="true" source="org.eclipse.jst.j2ee.server:MyFirstMavenProject"/></Host>
+      <Context docBase="mhs" path="/mhs" reloadable="true" source="org.eclipse.jst.jee.server:mhs"/><Context docBase="ECommerceWebsite" path="/ECommerceWebsite" reloadable="true" source="org.eclipse.jst.jee.server:ECommerceWebsite"/></Host>
     </Engine>
   </Service>
 </Server>
