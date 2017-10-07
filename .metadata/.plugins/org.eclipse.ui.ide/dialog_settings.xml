@@ -1,45 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
-	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
-		<item value="D:\唇语\lipreading-server"/>
-	</list>
-	<section name="CleanDialogSettings">
-		<item value="581" key="DIALOG_WIDTH"/>
-		<item value="false" key="TOGGLE_SELECTED"/>
-		<item value="423" key="DIALOG_HEIGHT"/>
-		<item value="670" key="DIALOG_X_ORIGIN"/>
-		<item value="233" key="DIALOG_Y_ORIGIN"/>
-	</section>
 	<section name="ExternalProjectImportWizard">
 		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
-		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
-			<item value="C:\Users\wangz\Downloads\netShopping1"/>
-			<item value="C:\Users\wangz\Documents\Tencent Files\979552169\FileRecv\mhs"/>
-			<item value="C:\Users\wangz\Desktop\springTest"/>
-			<item value="C:\Users\wangz\Desktop\struts_hibernate"/>
-			<item value="C:\Users\wangz\Downloads\ch02"/>
-			<item value="C:\Users\wangz\Desktop\Shop"/>
-			<item value="E:\Drag1"/>
-			<item value="C:\Users\wangz\Desktop\fourthProject"/>
-			<item value="C:\Users\wangz\Desktop\傻逼范宇轩组的jsp项目，勿删"/>
-			<item value="C:\Users\wangz\Desktop\Resident"/>
-			<item value="C:\Users\wangz\Desktop\biubiubiu\Resident"/>
-			<item value="C:\Users\wangz\Desktop\biubiubiu\1.2menzhenzhenjian"/>
-			<item value="C:\Users\wangz\Desktop\biubiubiu\1.3menzhenshoufei"/>
-			<item value="E:\Drag"/>
-			<item value="D:\HORS"/>
-			<item value="D:\BaiduYunDownload\20161121"/>
+			<item value="C:\Users\wangz\workspace\DentalHospitalServer"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
 			<item value=""/>
-		</list>
-	</section>
-	<section name="NewWizardAction">
-		<item value="org.eclipse.m2e.core.wizards.Maven2ProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
-		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
-			<item value="org.eclipse.m2e"/>
 		</list>
 	</section>
 </section>

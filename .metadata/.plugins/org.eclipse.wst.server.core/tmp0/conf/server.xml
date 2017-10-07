@@ -60,7 +60,7 @@
          APR (HTTP/AJP) Connector: /docs/apr.html
          Define a non-SSL HTTP/1.1 Connector on port 8080
     -->
-    <Connector connectionTimeout="20000" port="8080" protocol="HTTP/1.1" redirectPort="8443"/>
+    <Connector connectionTimeout="20000" port="8081" protocol="HTTP/1.1" redirectPort="8443"/>
     <!-- A "Connector" using the shared thread pool-->
     <!--
     <Connector executor="tomcatThreadPool"
@@ -131,7 +131,7 @@
                prefix="localhost_access_log." suffix=".txt" pattern="common" resolveHosts="false"/>
         -->
 
-      <Context docBase="C:\Users\wangz\workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\wangz\workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\mhs" path="/mhs" reloadable="true" source="org.eclipse.jst.jee.server:mhs"/><Context docBase="C:\Users\wangz\workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ECommerceWebsite" path="/ECommerceWebsite" reloadable="true" source="org.eclipse.jst.jee.server:ECommerceWebsite"/></Host>
+      <Context docBase="C:\Users\wangz\workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\wangz\workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\DentalHospitalServer" path="/DentalHospitalServer" reloadable="true" source="org.eclipse.jst.jee.server:DentalHospitalServer"/></Host>
     </Engine>
   </Service>
 </Server>

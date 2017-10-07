@@ -1,5 +1,2 @@
-do-not-show-remove-module-warning=true
 eclipse.preferences.version=1
-host-names=localhost|*|192.168.1.102|*|172.19.4.125|*|172.19.15.227|*|192.168.1.114|*|192.168.43.209|*|192.168.178.75|*|192.168.182.232|*|223.95.78.58|*|192.168.166.15|*|
-restart=1
-show-on-activity=false
+host-names=localhost|*|192.168.1.108|*|
